@@ -4,7 +4,8 @@
 This repo documents how to create a custom proxy reuse report that shows all the proxy names and which developers/developer apps are consuming them.
 
 # Create the Custom Report
-1. Click Analytics then click Reports
+1. Click Analytics then click Reports.
+
 ![Analytics -> Reports](/images/analyticsreports.png?raw=true "Analytics Reports")
 
 2. Enter the following and then save the report.
